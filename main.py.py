@@ -9,7 +9,7 @@ from aiogram.fsm.state import State, StatesGroup
 from aiogram.types import InlineKeyboardMarkup, InlineKeyboardButton, ReplyKeyboardMarkup, KeyboardButton
 
 # --- تنظیمات ---
-TOKEN = "8513142832:AAEYmXiFws3WfNZmQo4lo5J-FNQClNm4YH8"
+TOKEN = "8513142832:AAEY7GA7Wy0eQ44pUQEI7KoreOv5ZNl7POM"
 ADMIN_ID = 7625626852
 PORT = int(os.environ.get("PORT", 8080))
 
